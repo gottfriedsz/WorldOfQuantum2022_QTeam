@@ -3,10 +3,10 @@
 Exercises for Quantum Key Distribution
 
 Table of contents:
-* [Notes for lecturer]()
-* Notebook containing the [QKD implementation](QKD implementation.ipynb)
-* Bonus exercise which demonstrates the encryption of a text message and how to combine it with QKD [Bonus exercise 1](bonus 1 - transmit_text.ipynb)
-* Bonus exercise which extends the idea of the previous by transmitting an image [Bonus exercise 2](bonus 2 - transmit_image.ipynb)
+* [Notes for lecturer](QTeam-QKD.pdf)
+* Notebook containing the [QKD implementation](QKD%20implementation.ipynb)
+* Bonus exercise which demonstrates the encryption of a text message and how to combine it with QKD [Bonus exercise 1](bonus%201%20-%20transmit_text.ipynb)
+* Bonus exercise which extends the idea of the previous by transmitting an image [Bonus exercise 2](bonus%202%20-%20transmit_image.ipynb)
 * Final presetnation for the World Of Quantum hackathon []()
 
 
